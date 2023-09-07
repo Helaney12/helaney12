@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://discord.gg/Tvn59rJybp">
-  <img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=for-the-badge&logo=telegram" alt="Discord Server" />
+  <img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=for-the-badge&logo=discord&logoColor=white&color=7289DA"" alt="Discord Server" />
 </a>
 </div>
 
