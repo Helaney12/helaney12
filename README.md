@@ -6,7 +6,7 @@
   </a>
 </div>
 
-### Hi there 👋, Hello! My name Helaney.
+### 👋 Hello! My name Helaney.
 
 
 Skills: studying python
