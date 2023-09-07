@@ -18,10 +18,10 @@ Greetings! I'm an aspiring developer and also a Heypers Project admin! I will be
 
 ## ⚙️ Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mrf0rtuna4&theme=dark&mode=weekly&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrf0rtuna4&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=helaney12&theme=dark&mode=weekly&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helaney124&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrf0rtuna4&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helaney12&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ## 🚀 Projects
