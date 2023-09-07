@@ -1,6 +1,12 @@
 <!-- README.md -->
+
+<div align="center">
+  <a href="https://t.me/heypers_project">
+    <img src="https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
+  </a>
+</div>
+
 ### Hi there 👋, Hello! My name Helaney.
-![](https://sun9-62.userapi.com/impg/jiTUrsF_RKMgoBHnxLMuDGAe_y3jKWKgZE2Zug/M6ZRgZxeEQw.jpg?size=1079x719&quality=96&sign=fde24240e0dcaf7db7a7f96019b2257f&type=album)
 
 
 Skills: studying python
