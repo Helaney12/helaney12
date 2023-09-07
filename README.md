@@ -9,7 +9,7 @@
 
 # 👋 Hello, my name Helaney!
 
-Welcome! I'm involved in the development and management of the Heypers project, which aims to create unique communities and enable human interaction through new technologies.
+Greetings! I'm an aspiring developer and also a Heypers Project admin! I will be glad to cooperate with you.
 
 ## 🧠 Technical Skills
 
