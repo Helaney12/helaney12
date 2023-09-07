@@ -1,18 +1,9 @@
 <!-- README.md -->
 
 <div align="center">
-  <a href="http://heypers-lab.ml/">
-    <img src="https://img.shields.io/discord/823510265504989194.svg?style=for-the-badge&logo=discord&logoColor=white&color=7289DA" alt="Discord Server" />
-  </a>
-  <a href="https://t.me/heypers_project">
-    <img src="https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
-  </a>
-  <a href="https://github.com/ByteHive-Dev">
-    <img src="https://img.shields.io/badge/For%20Developers-ByteHive-blue?style=for-the-badge&logo=github" alt="ByteHive" />
-  </a>
-  <a href="https://mrf0rtuna4.ml">
-    <img src="https://img.shields.io/badge/More%20Info-Visit%20Here-blueviolet?style=for-the-badge" alt="More Info" />
-  </a>
+<a href="https://discord.gg/Tvn59rJybp">
+  <img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
+</a>
 </div>
 
 
