@@ -11,9 +11,9 @@
 
 Greetings! I'm an aspiring developer and also a Heypers Project admin! I will be glad to cooperate with you.
 
-## 🧠 Technical Skills
+## 💻 My skills
 
-- 💻 Experience: Pascal i think?
+- 🧠 Experience: Pascal i think?
 - 🔍 Learning: Python
 
 ## ⚙️ Statistics
@@ -27,4 +27,4 @@ Greetings! I'm an aspiring developer and also a Heypers Project admin! I will be
 ## 🚀 Projects
 
 - [Molzy](https://github.com/Helaney12/Molzy)
-- ... and much more!
+- and much more!
