@@ -24,7 +24,7 @@ Greetings! I'm an aspiring developer and also a Heypers Project admin! I will be
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helaney12&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-## 🚀 Projects
+## 📑 My projects
 
 - [Molzy](https://github.com/Helaney12/Molzy)
 - and much more!
