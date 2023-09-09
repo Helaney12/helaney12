@@ -13,7 +13,7 @@ Greetings! I'm an aspiring developer and also a Heypers Project admin! I will be
 
 ## 💻 My skills
 
-- 🧠 Experience: Pascal i think?
+- 🧠 Experience: None((
 - 🔍 Learning: Python
 
 ## ⚙️ Statistics
